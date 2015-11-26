@@ -1168,6 +1168,11 @@
 	num_female_eng: 1296
 	num_eng: 5407
 	last_updated: 2015-07-22
+[udacity]
+	company: Udacity
+	num_female_eng: 3
+	num_eng: 23
+	last_updated: 2015-11-26
 [firstwatchsolutions]
 	company: FirstWatch Solutions
 	num_female_eng: 0
@@ -1219,3 +1224,5 @@
 	num_female_eng: 3
 	num_eng: 57
 	last_updated: 2015-10-28
+
+
